@@ -1,0 +1,40 @@
+* {
+    line-height: 1.5;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.recipe-content {
+    text-align: left;
+}
+
+.img {display: block;
+margin-left: auto;
+margin-right: auto;
+height: 250px;
+width: 350px;
+}
+
+h1 {text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
+    color: brown;
+    font-weight: 600;
+}
+
+h2 { font-family: "Courier New", sans-serif;
+    font-size: 24px;
+    color: brown;
+    font-weight: 600;
+    }
+
+h3{font-family: "Courier New", sans-serif;
+    font-size: 20px;
+    color: brown;
+}
+
+li, p{
+    color: hsl(33, 92%, 20%);
+    font-size: 20px;
+    font-family: "Courier New", sans-serif;
+}
